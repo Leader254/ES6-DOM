@@ -58,3 +58,5 @@
 // const b = Object.keys(person); // returns an array of the keys in the object
 // const a = Object.values(person); // returns an array of the values in the object
 // console.log(a);
+
+// arrow functions
